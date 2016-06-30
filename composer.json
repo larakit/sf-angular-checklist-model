@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-angularjs-checklist-model",
+    "description": "[Larakit] [staticfiles] sf-angularjs-checklist-model",
+    "version": "2.0.0",
+    "license": "MIT",
+    "require":{
+        "larakit/lk-staticfiles":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
